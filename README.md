@@ -1,4 +1,4 @@
-# Marketing-AB-Testing
+# Marketing A/B Testing
 Analisis dataset Marketing A/B Testing untuk Pacmann Course Project
 
 Dataset ini berisi informasi tentang tagihan asuransi kesehatan untuk individu, seperti:
