@@ -10,4 +10,4 @@ Dataset ini berisi informasi tentang tagihan asuransi kesehatan untuk individu, 
 - ```most ads day``` : Hari dimana user paling banyak melihat ad.
 - ```most ads hour``` : Jam dimana user paling banyak menonton ad.
 
-Untuk report yang lebih lengkap kunjungi : 
+Untuk report yang lebih lengkap kunjungi : https://medium.com/@s.dimasdwi/marketing-a-b-testing-849f5e2626fb
